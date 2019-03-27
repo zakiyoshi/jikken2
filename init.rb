@@ -1,5 +1,5 @@
 Redmine::Plugin.register :jikken1 do
-  name 'Jikken1 plugin'
+  name 'Jikken2 plugin'
   author 'Author name'
   description 'This is a plugin for Redmine'
   version '0.5.4'
